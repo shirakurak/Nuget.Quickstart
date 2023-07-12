@@ -6,3 +6,10 @@
 $ dotnet --version
 7.0.305
 ```
+
+```sh
+$ dotnet new console
+...
+$ dotnet add package Newtonsoft.json
+...
+```
